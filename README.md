@@ -2,9 +2,9 @@
 
 # User Story
 
-AS A Bootcamp student
-I WANT a portfolio site in Bootstrap
-SO THAT I can learn adn demonstrate my progress to recruiters and clients
+.AS A Bootcamp student
+.I WANT a portfolio site in Bootstrap
+.SO THAT I can learn adn demonstrate my progress to recruiters and clients
 
 
 # Acceptance Criteria
